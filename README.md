@@ -1,0 +1,2 @@
+# naix
+dark discord theme
